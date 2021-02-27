@@ -1,3 +1,5 @@
+// Авто
+
 let auto = {
     brand: " BMW ",
     model: " X6 ",
